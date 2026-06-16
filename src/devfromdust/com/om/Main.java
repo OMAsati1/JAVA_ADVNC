@@ -1,13 +1,13 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+package devfromdust.com.om;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 public class Main {
     void main() {
 
-        /*Thread1 thread1 = new Thread1();
+        /*devfromdust.com.om.Thread1 thread1 = new devfromdust.com.om.Thread1();
         thread1.start();
 
-        Thread2 thread2 = new Thread2();
+        devfromdust.com.om.Thread2 thread2 = new devfromdust.com.om.Thread2();
         Thread thread = new Thread(thread2);
         thread.start();
 
